@@ -43,7 +43,7 @@ This repository contains my work for the Irrigation Machine project as part of t
 ## 📌 How to run
 
 1. Clone the repository  
-2. Make sure `irrigation_machine.csv` is in the same folder  
+2. Make sure `smart_irrigation.csv` is in the same folder  
 3. Run the script in or colab:
    ```bash
    python smart_irrigation.ipynb
