@@ -102,4 +102,4 @@ This project was developed under the **Edunet Foundation** Internship program su
 
 **Mukilan K.**  
 B.Tech AI & DS Student | Passionate about AgriTech & ML  
-Connect: [LinkedIn](www.linkedin.com/in/mukilan-k-ai) • [GitHub](https://github.com/MUKILAN-K)
+Connect: [LinkedIn](https://www.linkedin.com/in/mukilan-k-ai) • [GitHub](https://github.com/MUKILAN-K)
