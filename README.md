@@ -23,7 +23,7 @@ This project presents a smart irrigation solution that leverages machine learnin
 | **Programming**        | Python                               |
 | **IDE/Environment**    | VS Code                              |
 | **Libraries**          | Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit |
-| **ML Algorithm**       | Decision Tree Classifier             |
+| **ML Algorithm**       | Random Forest classifier             |
 | **Model Saving**       | `joblib`                             |
 | **Deployment**         | Streamlit with multipage navigation  |
 
